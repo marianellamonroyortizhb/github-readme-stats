@@ -143,6 +143,12 @@ const themes = {
     text_color: "859900",
     bg_color: "fdf6e3",
   },
+    "peach": {
+    title_color: "f4a261",
+    icon_color: "f4a261",
+    text_color: "414042",
+    bg_color: "ffffff",
+  },
 };
 
 module.exports = themes;
